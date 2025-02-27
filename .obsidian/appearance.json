@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Typewriter",
+  "enabledCssSnippets": [
+    "images",
+    "general"
+  ],
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": ""
+}
